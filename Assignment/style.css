@@ -1,0 +1,39 @@
+.container{
+    border: 4px solid black;
+}
+.row{
+    border: 2px solid pink;
+}
+.col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .co-l8, .col-9, .col-10, .col-11, .col-12{
+    border: 2px solid rgb(32, 34, 34);
+}
+body{
+    background-color: rgb(139, 236, 236);
+}
+
+#header{
+background-color: rgb(233, 233, 88);
+padding: 10px;
+
+}
+#nav{
+    background-color: rgb(137, 221, 130);
+    padding: 10px;
+}
+#nav ul{
+    list-style: none;
+    margin: 0px;
+}
+#nav ul li{
+    display: inline-block;
+    margin: 10px;
+}
+#content{
+    background-color: pink;
+}
+#sidebar{
+    background-color: rgb(222, 210, 224);
+}
+#footer{
+    background-color: rgb(139, 107, 199);
+}
