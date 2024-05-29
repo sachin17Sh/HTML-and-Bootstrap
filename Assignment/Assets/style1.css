@@ -6,9 +6,10 @@
 }
 .col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .co-l8, .col-9, .col-10, .col-11, .col-12{
     border: 2px solid rgb(32, 34, 34);
+    background-color: #4ce207;
 }
 body{
-    background-color: rgb(139, 236, 236);
+    background-color: rgb(228, 230, 218);
 }
 
 #header{
