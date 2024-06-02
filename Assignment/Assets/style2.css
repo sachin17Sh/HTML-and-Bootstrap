@@ -1,16 +1,39 @@
-.container{
+.container {
     border: 4px solid black;
 }
-.row{
+
+.row {
     border: 2px solid rgb(11, 63, 231);
 }
-.col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .co-l8, .col-9, .col-10, .col-11, .col-12{
+
+.col,
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
     border: 2px solid rgb(32, 34, 34);
-   
 }
-.color1{
+
+.color1 {
     background-color: pink;
 }
-.color2{
- background-color: aquamarine;
+
+.color2 {
+    background-color: aquamarine;
+}
+
+.color3 {
+    background-color: orange;
+}
+
+.color4 {
+    background-color: #c0a9a9;
 }
